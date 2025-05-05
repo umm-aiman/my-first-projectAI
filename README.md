@@ -1,2 +1,2 @@
-# my-first-projectAI
-learning how to code fast and efficiently
+# first program
+loops and arrays
